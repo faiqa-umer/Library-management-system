@@ -11,7 +11,7 @@ This is a **Library Management System** developed using **Java (OOP, GUI, SQL Da
 - Database integration using **MySQL**
 
 ## 🛠️ Technologies Used
-- **Java** (OOP Concepts)
+- **Java**
 - **Swing/JavaFX** (GUI)
 - **JDBC** (Database Connectivity)
 - **MySQL** (Database)
