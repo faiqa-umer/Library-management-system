@@ -15,6 +15,3 @@ This is a **Library Management System** developed using **Java (OOP, GUI, SQL Da
 - **Swing/JavaFX** (GUI)
 - **JDBC** (Database Connectivity)
 - **MySQL** (Database)
-
-## 🚀 Installation
-1. Clone the repository:
